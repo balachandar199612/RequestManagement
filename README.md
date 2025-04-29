@@ -5,3 +5,5 @@
  Swagger loads and shows all API endpoints
 
  SQLite database is created automatically
+
+JWT token added
