@@ -7,3 +7,6 @@
  SQLite database is created automatically
 
 JWT token added
+
+dotnet run to run in command prompt
+
